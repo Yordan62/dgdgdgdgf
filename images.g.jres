@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAPAAAAAAAAAA8AAAAAAAAADwAAAAAA8P/wAAAADwD/8vAAAPAP8O8g/wDw/wDwACD/AP8AAPDgIP//DwAA8A/y8AD/AAAA/w/wAPAPAAAAAA8AAPAPAAAADwAAAA8AAPAAAAAAAAAA8AAAAAAAAAAPAAAAAAAAAA8AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Guy1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAPD/DwAAAPD/7+7+AAAA7+7+3f4AAPDu3f7d/gAA8O/d/u7+AADv7+7+//8A8O7+/+/u/gDv7u7+7t3+8O7u7u/v3f7w7u7+7u/u/gDv7u/u/u8PAO/+7u7u/gAA8O/u7u4PAAAA8O7u/gAAAADw7u4PAAAAAAD//wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "log"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
